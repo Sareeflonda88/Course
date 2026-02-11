@@ -511,7 +511,7 @@ async def upload(bot: Client, m: Message):
         elif raw_text2 == "480":
             res = "854x480"
         elif raw_text2 == "720":
-            res = "1280x720"
+            res = "720x1280"
         elif raw_text2 == "1080":
             res = "1920x1080" 
         else: 
